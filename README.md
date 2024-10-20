@@ -9,11 +9,8 @@ Ensuring the design closely matches the Figma layout.
 Implementing pagination to navigate through mock product data.
 Handling state for modal interactions and navigation between pages.
 ## Installation and Setup
-Navigate to the Project Directory
-cd Eweb
+## Navigate to the Project Directory - cd Eweb
 
-Install Dependencies
-npm install
+## Install Dependencies - npm install
 
-Start the Application
-npm run dev
+## Start the Application - npm run dev
