@@ -2,11 +2,11 @@
 This project is a React-based E-commerce Listing Page that allows users to browse products, view product details, and add products to the cart.
 
 ## Installation and Setup
-## Navigate to the Project Directory - cd Eweb
+  Navigate to the Project Directory - cd Eweb
 
-## Install Dependencies - npm install
+  Install Dependencies - npm install
 
-## Start the Application - npm run dev
+  Start the Application - npm run dev
 
 ## Approach
 The project is divided into reusable components to ensure a clean and modular structure.
